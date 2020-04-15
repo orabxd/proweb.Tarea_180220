@@ -1,4 +1,4 @@
-body{
+body{git push -u origin master
     font-family: sans-serif;
 }
 
@@ -9,7 +9,7 @@ body{
     min-width: 100%;
     min-height: 100%;
     background-position: left; 
-//era center obo
+/* era center obo */
 }
 
 .main {
